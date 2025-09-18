@@ -1,2 +1,2 @@
-# data-analyst-portfolio
+# data-analysis-portfolio
 Data Analyst Portfolio showcasing SQL, Excel, Tableau, MySQL and Python projects.
